@@ -34,3 +34,6 @@ Line: 245
   ["canva", "https://canva.com"],["linkedin", "https://linkedin.com"],["gmail", "https://gmail.com"],["github", "https://github.com"],
   ["invertis university", "https://invertisuniversity.ac.in"],["leetcode", "https://leetcode.com"],["openai", "https://openai.com"]
 ]
+
+# To learn how to use this app watch this video on linkedin:
+https://www.linkedin.com/posts/anwar-ansari-84b07a24a_python-oasisinfobyte-voiceabrassistant-activity-7210903437759115265-b_Oj?utm_source=share&utm_medium=member_desktop
